@@ -1,0 +1,27 @@
+{
+ "app": "TADA",
+ "version": 1,
+ "trips": [],
+ "islands": [
+  "Gdh Thinadhoo",
+  "Gdh Madaveli",
+  "Gdh Hoandedhdhoo",
+  "Gdh Fiyoaree",
+  "Gdh Rathafandhoo",
+  "Gdh Nadella",
+  "Gdh Faresmaathodaa",
+  "Gdh Vaadhoo"
+ ],
+ "reasons": [
+  "ATM Maintenance",
+  "ATM Maintenance with tech",
+  "ATM Jam",
+  "Card Delivery",
+  "Mobile Banking Trip",
+  "Sales Trip"
+ ],
+ "home": "Gdh Thinadhoo",
+ "settingsUpdatedAt": 0,
+ "deleted": {},
+ "savedAt": "2026-10-22T19:59:54.289Z"
+}
