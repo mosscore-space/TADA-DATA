@@ -1,7 +1,22 @@
 {
  "app": "TADA",
  "version": 1,
- "trips": [],
+ "trips": [
+  {
+   "id": "mvkqchjugsp1lz",
+   "origin": "Gdh Thinadhoo",
+   "destinations": [
+    "Gdh Madaveli",
+    "Gdh Fiyoaree"
+   ],
+   "reasons": [
+    "ATM Maintenance"
+   ],
+   "start": 1792745418116,
+   "end": 1792745438682,
+   "updatedAt": 1792745438682
+  }
+ ],
  "islands": [
   "Gdh Thinadhoo",
   "Gdh Madaveli",
@@ -30,5 +45,5 @@
   "mvkq8upqbrr3l3": 1792745270742,
   "mvkqa8p5ec1yrq": 1792745335974
  },
- "savedAt": "2026-10-23T08:48:56.112Z"
+ "savedAt": "2026-10-23T08:50:40.898Z"
 }
